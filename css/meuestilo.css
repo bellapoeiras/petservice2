@@ -1,0 +1,33 @@
+.text-primary{
+	color:#00CED1
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover{
+	background:#00CED1
+}
+
+header {
+  background-image:url("http://www.petcidade.com.br/wp-content/uploads/2017/05/pet-friendly-istock.jpg")  ;
+  }
+
+.btn-xl {
+	background-color: #00CED1 ;
+	border-color: #00CED1 ;
+}
+
+.selection {
+	background: #00CED1;
+	background-color: #00CED1 ;
+}
+
+.navbar-custom .navbar-nav>.active>a {
+	    background-color: #00CED1;
+	}
+
+	.navbar-custom .navbar-nav>.active>a:focus, .navbar-custom .navbar-nav>.active>a:hover {
+		    background-color: #00CED1;
+		}
+
+.navbar-custom .navbar-brand {
+	color: #00CED1;
+}
